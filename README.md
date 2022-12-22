@@ -3,7 +3,13 @@ Study of Algorithm & Practice for Coding-test
 
 1주 당 코딩테스트 5문항 풀이 후 Tistory에 업로드(기록), 매주 study를 통해 스터디원들의 색다른 풀이를 경험
 
-개인 블로그 : https://pred0771.tistory.com/category/Algorithm
+개인 블로그 : 
+1. 이현 https://pred0771.tistory.com/category/Algorithm
+2. 정유라 https://declare0703.tistory.com  
+3. 박민서 https://minseocoding.tistory.com/
+4. 김세온 https://kso323.tistory.com/
+5. 김가을 https://velog.io/@kimgaeul02
+
 
 | ![](https://github.com/LEE-Hyeon0771.png) | ![](https://github.com/yura0703.png) | ![](https://github.com/KSO012.png) | ![](https://github.com/2021247011parkminseo.png) | ![](https://github.com/kimgaeul02.png) |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :-----------------------------------: | :------------------------------------: |
