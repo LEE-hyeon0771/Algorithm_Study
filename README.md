@@ -61,3 +61,5 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 - [최소직사각형](https://pred0771.tistory.com/125)
 - [모의고사](https://pred0771.tistory.com/126)
 - [소수찾기](https://pred0771.tistory.com/127)
+- [카펫](https://pred0771.tistory.com/129)
+- [피로도](https://pred0771.tistory.com/128)
