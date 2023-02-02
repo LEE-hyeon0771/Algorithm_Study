@@ -63,3 +63,4 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 - [소수찾기](https://pred0771.tistory.com/127)
 - [카펫](https://pred0771.tistory.com/129)
 - [피로도](https://pred0771.tistory.com/128)
+- [모음사전](https://pred0771.tistory.com/131)
