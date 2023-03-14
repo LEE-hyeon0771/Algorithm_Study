@@ -67,6 +67,8 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 - [모음사전](https://pred0771.tistory.com/131)
 - [DNA(백준 1969)](https://pred0771.tistory.com/146)
 - [치킨치킨치킨(백준 16439)](https://pred0771.tistory.com/147)
+- [Four Squares(백준 17626)](https://pred0771.tistory.com/148)
+- [퇴사(백준 14501)](https://pred0771.tistory.com/149)
 
 ### 5. Greedy
 - 탐욕법 알고리즘으로 순간 순간 마다 최적의 경우의 수를 선택하여 최적화하는 알고리즘. 최적화를 보장해주지는 않지만, 일반적으로 코딩테스트에서는 최적화가 가능하도록 설계되어 있으므로 이론적인 최적의 경우의 수를 택할 것.
