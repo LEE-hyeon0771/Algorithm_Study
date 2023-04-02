@@ -87,3 +87,4 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 
 - [수 들의 합(백준 1789)](https://pred0771.tistory.com/156)
 - [숫자카드(백준 10815)](https://pred0771.tistory.com/157)
+- [정수 제곱근(백준 2417)](https://pred0771.tistory.com/158)
