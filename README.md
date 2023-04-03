@@ -72,8 +72,20 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 - [치킨치킨치킨(백준 16439)](https://pred0771.tistory.com/147)
 - [Four Squares(백준 17626)](https://pred0771.tistory.com/148)
 - [퇴사(백준 14501)](https://pred0771.tistory.com/149)
+- [큰 수 구성하기(백준 18511)](https://pred0771.tistory.com/151)
+- [카드놓기(백준 5568)](https://pred0771.tistory.com/152)
+- [숫자야구(백준 2503)](https://pred0771.tistory.com/153)
+- [도영이가 만든 맛있는 음식(백준 2961)](https://pred0771.tistory.com/155)
 
 ### 5. Greedy
 - 탐욕법 알고리즘으로 순간 순간 마다 최적의 경우의 수를 선택하여 최적화하는 알고리즘. 최적화를 보장해주지는 않지만, 일반적으로 코딩테스트에서는 최적화가 가능하도록 설계되어 있으므로 이론적인 최적의 경우의 수를 택할 것.
 
 - [체육복](https://pred0771.tistory.com/135)
+
+### 6. Binary Search
+- 완전탐색(Brute Force)와 결국 유사한 알고리즘을 가지고 있는 방식이지만, 줄일 수 있다면 절반부터 업다운 느낌으로 조금이라도 검색할 자료를 줄여 시간복잡도를 좋게 만들어 주는 알고리즘 방식이다.
+
+- [수 들의 합(백준 1789)](https://pred0771.tistory.com/156)
+- [숫자카드(백준 10815)](https://pred0771.tistory.com/157)
+- [정수 제곱근(백준 2417)](https://pred0771.tistory.com/158)
+- [IF문 좀 대신 써줘(백준 19637)](https://pred0771.tistory.com/159)
