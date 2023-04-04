@@ -89,3 +89,4 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 - [숫자카드(백준 10815)](https://pred0771.tistory.com/157)
 - [정수 제곱근(백준 2417)](https://pred0771.tistory.com/158)
 - [IF문 좀 대신 써줘(백준 19637)](https://pred0771.tistory.com/159)
+- [나무자르기(백준 2805)](https://pred0771.tistory.com/160)
