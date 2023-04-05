@@ -14,7 +14,7 @@ Study of Algorithm & Practice for Coding-test
 8. 최지현 https://jenny1340.tistory.com/
 
 
-| ![](https://github.com/LEE-Hyeon0771.png) | ![](https://github.com/yura0703.png) | ![](https://github.com/KSO012.png) | ![](https://github.com/2021247011parkminseo.png) | ![](https://github.com/kimgaeul02.png) | ![](https://github.com/GeekDM.png) | ![]( https://github.com/joon56.png) | ![]( https://github.com/jihyun0105 )
+| ![](https://github.com/LEE-Hyeon0771.png) | ![](https://github.com/yura0703.png) | ![](https://github.com/KSO012.png) | ![](https://github.com/2021247011parkminseo.png) | ![](https://github.com/kimgaeul02.png) | ![](https://github.com/GeekDM.png) | ![]( https://github.com/joon56.png) | ![]( https://github.com/jihyun0105 )  |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :-----------------------------------: | :------------------------------------: |  :------------------------------------: |  :------------------------------------: |  :------------------------------------: |
 |             **이현<br>(Developer)<br>연세대학교 미래캠퍼스**              |             **정유라<br>(Developer)<br>연세대학교 미래캠퍼스**              |             **김세온<br>(Developer)<br>연세대학교 미래캠퍼스**              |            **박민서<br>(Developer)<br>연세대학교 미래캠퍼스**            |            **김가을<br>(Developer)<br>연세대학교 미래캠퍼스**             |             **서동민<br>(Developer)<br>연세대학교 미래캠퍼스**        |             **유민준<br>(Developer)<br>연세대학교 미래캠퍼스**            |          **최지현<br>(Developer)<br>연세대학교 미래캠퍼스**        |
 
