@@ -45,7 +45,11 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 - [카드2](https://pred0771.tistory.com/162)
 - [후위표기식2](https://pred0771.tistory.com/163)
 - [프린터 큐](https://pred0771.tistory.com/164)
-- 
+- [쇠막대기](https://pred0771.tistory.com/165)
+- [괄호의 값](https://pred0771.tistory.com/166)
+- [괄호제거](https://pred0771.tistory.com/167)
+- [탑](https://pred0771.tistory.com/168)
+
 ### 2. Sort
 - 정렬 답게 정렬 하는 문제가 대다수이다. 또는 몇번째 수인지, 해당 index가 어디인지, 가장 큰 수, 가장 작은 수가 무엇인지 이런식으로 정렬이 필요한 문제 유형을 가진다.
 
