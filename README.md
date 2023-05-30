@@ -97,3 +97,11 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 - [정수 제곱근(백준 2417)](https://pred0771.tistory.com/158)
 - [IF문 좀 대신 써줘(백준 19637)](https://pred0771.tistory.com/159)
 - [나무자르기(백준 2805)](https://pred0771.tistory.com/160)
+
+### 7. Priority Queue
+
+- [문자열 집합(백준 14425)](https://pred0771.tistory.com/169)
+- [최대 힙(백준 11279)](https://pred0771.tistory.com/170)
+- [N번째 큰 수(백준 2075)](https://pred0771.tistory.com/171)
+- [생태학(백준 4358)](https://pred0771.tistory.com/173)
+- [절댓값 힙(백준 11286)](https://pred0771.tistory.com/174)
