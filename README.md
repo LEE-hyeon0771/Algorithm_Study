@@ -99,6 +99,7 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 - [나무자르기(백준 2805)](https://pred0771.tistory.com/160)
 
 ### 7. Priority Queue
+- 일반적인 Queue와는 다르게 Heap의 개념을 사용한다. python에서는 heapq를 import하여 쉽게 사용할 수 있어 heapq와 빈 리스트를 사용하면 간편하게 사용할 수 있는 방식이다.
 
 - [문자열 집합(백준 14425)](https://pred0771.tistory.com/169)
 - [최대 힙(백준 11279)](https://pred0771.tistory.com/170)
