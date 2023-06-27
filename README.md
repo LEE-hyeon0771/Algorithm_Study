@@ -106,3 +106,8 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 - [N번째 큰 수(백준 2075)](https://pred0771.tistory.com/171)
 - [생태학(백준 4358)](https://pred0771.tistory.com/173)
 - [절댓값 힙(백준 11286)](https://pred0771.tistory.com/174)
+
+### 8. Tree
+- 트리 문제는 트리를 직접 손으로 그려서 시각화 한 후 DFS, BFS 알고리즘을 사용하여 문제를 해결하는 것이 바람직한 접근 방법이다.
+
+- [트리의 부모찾기(백준 11725)](https://pred0771.tistory.com/176)
