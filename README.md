@@ -32,7 +32,7 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 
 
 
-## Algorithm 유형정리(프로그래머스 고득점 kit 사용)
+## Algorithm 유형정리(프로그래머스 고득점 kit, 백준준 사용)
 ### 1. Stack & Queue
 - 일반적으로 순서를 찾는 문제 유형이 대다수이다. 배열 속에서 Stack과 Queue, deque를 사용하여 선입선출, 후입선출, 양쪽으로 조절 할 수 있도록 만들고 순서 배열을 요구하는 유형을 가진다.
 
@@ -113,3 +113,7 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 - 트리 문제는 트리를 직접 손으로 그려서 시각화 한 후 DFS, BFS 알고리즘을 사용하여 문제를 해결하는 것이 바람직한 접근 방법이다.
 
 - [트리의 부모찾기(백준 11725)](https://pred0771.tistory.com/176)
+
+### 9. Math
+
+- [소수&팰린드롬(백준 1747)](https://pred0771.tistory.com/179)
