@@ -1,22 +1,16 @@
 # Algorithm_Study
 Study of Algorithm & Practice for Coding-test
 
-1주 당 코딩테스트 5문항 풀이 후 Tistory에 업로드(기록), 매주 study를 통해 스터디원들의 색다른 풀이를 경험
+Rule : 유형정리 이후 백준 1 day 1 sol
 
 개인 블로그 : 
-1. 이현 https://pred0771.tistory.com/category/Algorithm
-2. 정유라 https://declare0703.tistory.com  
-3. 박민서 https://minseocoding.tistory.com/
-4. 김세온 https://kso323.tistory.com/
-5. 김가을 https://velog.io/@kimgaeul02
-6. 서동민 https://seodongmin.tistory.com/
-7. 유민준 https://helloparzival.tistory.com/ 
-8. 최지현 https://jenny1340.tistory.com/
+이현 https://pred0771.tistory.com/category/Algorithm
 
 
-| ![](https://github.com/LEE-Hyeon0771.png) | ![](https://github.com/yura0703.png) | ![](https://github.com/KSO012.png) | ![](https://github.com/2021247011parkminseo.png) | ![](https://github.com/kimgaeul02.png) | ![](https://github.com/GeekDM.png) | ![]( https://github.com/joon56.png) | ![]( https://github.com/jihyun0105 )  |
-| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :-----------------------------------: | :------------------------------------: |  :------------------------------------: |  :------------------------------------: |  :------------------------------------: |
-|             **이현<br>(Developer)<br>연세대학교 미래캠퍼스**              |             **정유라<br>(Developer)<br>연세대학교 미래캠퍼스**              |             **김세온<br>(Developer)<br>연세대학교 미래캠퍼스**              |            **박민서<br>(Developer)<br>연세대학교 미래캠퍼스**            |            **김가을<br>(Developer)<br>연세대학교 미래캠퍼스**             |             **서동민<br>(Developer)<br>연세대학교 미래캠퍼스**        |             **유민준<br>(Developer)<br>연세대학교 미래캠퍼스**            |          **최지현<br>(Developer)<br>연세대학교 미래캠퍼스**        |
+
+| ![](https://github.com/LEE-Hyeon0771.png) |
+| :--------------------------------------: | 
+|             **이현<br>(Developer)<br>연세대학교 미래캠퍼스**              |  
 
 ## 주 개발 언어
 <img src = https://camo.githubusercontent.com/372dfe5550512c1b2e7e3649ea92a5cbadeec44a51c3b2bf822fe2a7a22c13d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465>
@@ -32,7 +26,7 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 
 
 
-## Algorithm 유형정리(프로그래머스 고득점 kit, 백준준 사용)
+## Algorithm 유형정리(프로그래머스 고득점 kit, 백준 사용)
 ### 1. Stack & Queue
 - 일반적으로 순서를 찾는 문제 유형이 대다수이다. 배열 속에서 Stack과 Queue, deque를 사용하여 선입선출, 후입선출, 양쪽으로 조절 할 수 있도록 만들고 순서 배열을 요구하는 유형을 가진다.
 
