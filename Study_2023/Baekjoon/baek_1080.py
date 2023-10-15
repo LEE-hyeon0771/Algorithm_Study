@@ -3,8 +3,8 @@ import sys
 input = sys.stdin.readline
 
 n, m = map(int, input().split())
-matrix1 = [list(map(int, input().split())) for _ in range(n)]
-matrix2 = [list(map(int, input().split())) for _ in range(n)]
+matrix1 = [list(map(int, input().rstrip())) for _ in range(n)]
+matrix2 = [list(map(int, input().rstrip())) for _ in range(n)]
 
 def change(i, j):
     for x in range(i, i+3):
