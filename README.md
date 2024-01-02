@@ -13,10 +13,7 @@ Rule : 유형정리 이후 백준 1 day 1 sol
 |             **이현<br>(Developer)<br>연세대학교 미래캠퍼스**              |  
 
 ## 주 개발 언어
-<img src = https://camo.githubusercontent.com/372dfe5550512c1b2e7e3649ea92a5cbadeec44a51c3b2bf822fe2a7a22c13d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465>
-
-<img src = 
-https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736e2dc737e1975056cbf4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337363641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-1572B6?style=flat&logo=Python&logoColor=white" />
 
 ## 참고 사이트
 1. Baekjoon <https://www.acmicpc.net/>
