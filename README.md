@@ -108,3 +108,6 @@ Rule : 유형정리 이후 백준 1 day 1 sol
 ### 9. Math
 
 - [소수&팰린드롬(백준 1747)](https://pred0771.tistory.com/179)
+
+## GLB Algorthm Study 주간 공유 문제
+- 1/7 : [백준 1956 - 운동](https://pred0771.tistory.com/214) : Dijkstra, Floyd-Warshall
