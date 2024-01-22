@@ -10,7 +10,7 @@ Rule : 유형정리 이후 백준 1 day 1 sol
 
 | ![](https://github.com/LEE-Hyeon0771.png) |
 | :--------------------------------------: | 
-|             **이현<br>(Developer)<br>연세대학교 미래캠퍼스**              |  
+|             **이현<br>(Developer)<br>연세대학교**              |  
 
 ## 주 개발 언어
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-1572B6?style=flat&logo=Python&logoColor=white" />
