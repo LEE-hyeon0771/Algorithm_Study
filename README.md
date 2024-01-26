@@ -110,6 +110,7 @@ Rule : 유형정리 이후 백준 1 day 1 sol
 - [소수&팰린드롬(백준 1747)](https://pred0771.tistory.com/179)
 
 ## GLB Algorthm Study 주간 공유 문제
-- 1/7 : [백준 1956 - 운동](https://pred0771.tistory.com/214) : Dijkstra, Floyd-Warshall
-- 1/14 : [백준 1174 - 우주신과의 교감](https://pred0771.tistory.com/217) : 최소신장트리(kruskal)
-- 1/21 : [백준 1052 - 물병](https://pred0771.tistory.com/218) : Greedy
+- 1/5 : [백준 1956 - 운동](https://pred0771.tistory.com/214) : Dijkstra, Floyd-Warshall
+- 1/12 : [백준 1174 - 우주신과의 교감](https://pred0771.tistory.com/217) : 최소신장트리(kruskal)
+- 1/19 : [백준 1052 - 물병](https://pred0771.tistory.com/218) : Greedy
+- 1/26 : [백준 1082 - 방 번호](https://pred0771.tistory.com/221) : Dynamic Promgramming
