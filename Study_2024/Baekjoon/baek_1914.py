@@ -16,6 +16,6 @@ def hanoi(n, from_pos, aux_pos, to_pos):
 if n <= 20:
     hanoi(n, 1, 2, 3)
 
-print(2 ** n-1)
+print(2 ** n-1)                       # 왜 len(moves) 안됨...?
 for move in moves:
     print(move)
