@@ -114,3 +114,5 @@ Rule : 유형정리 이후 백준 1 day 1 sol
 - 1/12 : [백준 1174 - 우주신과의 교감](https://pred0771.tistory.com/217) : 최소신장트리(kruskal)
 - 1/19 : [백준 1052 - 물병](https://pred0771.tistory.com/218) : Greedy
 - 1/26 : [백준 1082 - 방 번호](https://pred0771.tistory.com/221) : Dynamic Promgramming
+- 2/2  : [백준 1111 - IQ Test](https://pred0771.tistory.com/227) : implementation
+- 2/16 : [백준 2252 - 줄 세우기](https://pred0771.tistory.com/232) : Sorting
