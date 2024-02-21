@@ -2,7 +2,7 @@ import sys
 import math
 input = sys.stdin.readline
 
-# 소수 판별 함수
+
 def isPrime(num):
     if num == 1:
         return False
@@ -11,14 +11,12 @@ def isPrime(num):
             return False
     return True
 
-# 골드바흐 파티션 함수
 def goldbach(num):
     for i in range(2, num):
         if isPrime(i) and isPrime(num - i):
             return (i, num - i)
     return (-1, -1)
 
-# 메인 로직
 n = int(input())
 if n < 8:
     print(-1)
