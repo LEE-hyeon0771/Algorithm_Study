@@ -117,3 +117,6 @@ Rule : 유형정리 이후 백준 1 day 1 sol
 - 2/2  : [백준 1111 - IQ Test](https://pred0771.tistory.com/227) : implementation
 - 2/16 : [백준 2252 - 줄 세우기](https://pred0771.tistory.com/232) : Sorting
 - 2/23 : [백준 1153 - 네 개의 소수](https://pred0771.tistory.com/233) : Math
+- 3/1 : [백준 2352 - 반도체 설계](https://pred0771.tistory.com/234) : LIS 리스트, 이분탐색
+- 3/8 : [백준 1949 - 우수 마을](https://pred0771.tistory.com/235) : dfs, Dynamic Programming
+- 3/15 : [백준 1256 - 사전](https://pred0771.tistory.com/236) : Dynamic Programming
