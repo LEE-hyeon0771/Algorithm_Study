@@ -8,7 +8,7 @@ cost_info = [list(map(int, input().split())) for _ in range(n)]
 cost_info.sort()
 
 dp = [sys.maxsize for _ in range(c+100)]
-#dp[0] = 0
+dp[0] = 0
 
 for cost, people in cost_info:
     for i in range(people, len(dp)):
