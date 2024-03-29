@@ -120,3 +120,5 @@ Rule : 유형정리 이후 백준 1 day 1 sol
 - 3/1 : [백준 2352 - 반도체 설계](https://pred0771.tistory.com/234) : LIS 리스트, 이분탐색
 - 3/8 : [백준 1949 - 우수 마을](https://pred0771.tistory.com/235) : dfs, Dynamic Programming
 - 3/15 : [백준 1256 - 사전](https://pred0771.tistory.com/236) : Dynamic Programming
+- 3/22 : [백준 12865 - 평범한 배낭](https://pred0771.tistory.com/238) : Dynamic Promgramming
+- 3/29 : [백준 319 - 뱀](https://pred0771.tistory.com/240) : Queue
