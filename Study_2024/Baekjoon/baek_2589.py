@@ -19,11 +19,12 @@ def bfs(i, j):
         x, y = q.popleft()
         for i in range(4):
             nx, ny = x + dx[i], y + dy[i]
-            if 0 <= nx < n and 0 <= ny < m:
-                if graph[nx][ny] == 'L' and visited[nx][ny] == 0:
-                    visited[nx][ny] = visited[x][y] + 1
-                    count = max(count, visited[nx][ny])
-                    q.append((nx, ny))
+            if not (0 <= nx < n and 0 <= ny < m):
+                continue
+            elif graph[nx][ny] == 'L' and visited[nx][ny] == 0:
+                visited[nx][ny] = visited[x][y] + 1
+                count = max(count, visited[nx][ny])
+                q.append((nx, ny))
     return count - 1
 
 result = 0
