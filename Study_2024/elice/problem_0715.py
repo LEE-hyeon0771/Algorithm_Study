@@ -25,47 +25,31 @@ k번째 차례에 사용할 색깔이 주어질 때, 정점을 골라서 얻을 
 출력 예시
 1
 '''
-import sys
-input = sys.stdin.readline
-def min_red_edges(n, colors):
-    parent = list(range(n))
-    size = [1] * n
+from collections import deque
 
-    def find(x):
-        if parent[x] != x:
-            parent[x] = find(parent[x])
-        return parent[x]
+def calculate_min_cost(n, c):
+    initial_state = tuple([1] * n)
+    dp = {initial_state: 0}
+    queue = deque([initial_state])
 
-    def union(x, y):
-        rootX = find(x)
-        rootY = find(y)
-        if rootX != rootY:
-            if size[rootX] < size[rootY]:
-                rootX, rootY = rootY, rootX
-            parent[rootY] = rootX
-            size[rootX] += size[rootY]
+    while queue:
+        v = queue.popleft()
+        for i in range(len(v)):
+            for j in range(i + 1, len(v)):
+                u = list(v)
+                u[i] += v[j]
+                u.pop(j)
+                u = tuple(sorted(u))
+                new_cost = dp[v] + v[i] * v[j] * (1 - c[n - len(v)])
+                
+                if u not in dp or dp[u] > new_cost:
+                    dp[u] = new_cost
+                    queue.append(u)
 
-    red_edge_count = 0
+    return dp[(n,)]
 
-    for i, color in enumerate(colors):
-        possible_edges = []
-        for a in range(n):
-            for b in range(a + 1, n):
-                if find(a) != find(b):
-                    possible_edges.append((size[find(a)] * size[find(b)], a, b))
-        
-        
-        possible_edges.sort()
-        _, u, v = possible_edges[0]
+n = int(input())
+c = list(map(int, input().split()))
 
-
-        if color == 0:
-            red_edge_count += 1
-
-        union(u, v)
-
-    return red_edge_count
-
-n = int(input().strip())
-colors = list(map(int, input().strip().split()))
-print(min_red_edges(n, colors))
+result = calculate_min_cost(n, c)
+print(result)
